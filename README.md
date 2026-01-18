@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Bilal Shahid 
 
-<!--
-**bilalshahid-tech/bilalshahid-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Full-Stack Developer
+🧠 Interests: Distributed Systems, Networking, Cloud, AI  
+🎯 Goal: MS in France – Fall 2027  
 
-Here are some ideas to get you started:
+## Tech Stack
+- JavaScript, TypeScript 
+- React, Next.js
+- Node.js, Express, SpringBoot
+- MongoDB, PostgreSQL
+- Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Final Year Project (Distributed Monitoring System)
+- Backend system design
+- Strengthening algorithms & CS fundamentals
